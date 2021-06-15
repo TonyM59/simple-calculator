@@ -14,8 +14,12 @@ function division(a,b){
 }
 division (32, 2);
 
-function substract(a, b, c) {
+function subtract(a, b, c) {
     let substract = a - b - c;
     console.log(substract);
 }
-substract(41, 10, 5);
+subtract(41, 10, 5);
+
+//Multiply two decimals
+let diff = 2.5 * 0.5;
+console.log(diff)
