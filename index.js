@@ -13,3 +13,9 @@ function division(a,b){
     console.log(a / b);
 }
 division (32, 2);
+
+function substract(a, b, c) {
+    let substract = a - b - c;
+    console.log(substract);
+}
+console (41, 10, 5);
