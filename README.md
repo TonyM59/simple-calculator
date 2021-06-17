@@ -7,12 +7,12 @@ This is our first calculator using a github, it can be used to solve simple math
 
 ## Authors
 1. Kgaugelo Rabothata <br>
-   Github: @kgaugelo-rabothata <br>
-   Twitter: @misskay-rabs
+   Github: <a href="@kgaugelo-rabothata"> <br>
+   Twitter: <a href="@misskayrabs">
 
 2. Tony Mahlangu <br>
-   Github: TonyM59 <br>
-   Email: tonymahlangu59@gmail.com
+   Github: <a href="TonyM59"> <br>
+   Email: <a href="@tonymahlangu59@gmail.com">
 
 ### Contributing
 contributions, issues and feature requests are welcome!
