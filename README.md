@@ -7,6 +7,12 @@ This is our first calculator project developed at girlcode, it can be used to so
 - HTML
 - JavaScript
 
+## Operations
+- Addition
+- Subtraction
+- Division
+- Multiplication
+
 ## Authors
 - Kgaugelo Rabothata <br>
    <img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />: [@kgaugelo-rabothata](https://github.com/kgaugelo-rabothata) <br>
@@ -18,8 +24,3 @@ This is our first calculator project developed at girlcode, it can be used to so
 
 ### Contributing
 Wanna feature in this project, collaboration requests are more than welcome!
-
-### Show your support
-Give a <img alt="codeSTACKr | Star" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/star.svg" /> if you like this project.
-
-
