@@ -1,5 +1,5 @@
 # simple-calculator
-This is our first calculator using github, it can be used to solve simple mathematical problems.
+This is our first calculator project developed at girlcode, it can be used to solve simple mathematical problems.
 
 ![project image](https://calculator-1.com/images/screens/simple_calculator.png)
 
@@ -17,9 +17,9 @@ This is our first calculator using github, it can be used to solve simple mathem
    Email: @tonymahlangu59@gmail.com
 
 ### Contributing
-contributions, issues and feature requests are welcome!
+Wanna feature in this project, collaboration requests are more than welcome!
 
 ### Show your support
-Give a :star if you like this project.
+Give a <img align="left" alt="codeSTACKr | Star" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/star.svg" /> if you like this project.
 
 
