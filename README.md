@@ -6,5 +6,5 @@ This is our first calculator using a github, it can be used to solve simple math
 2. JavaScript
 
 ## Authors
-&#128100 Kgaugelo Rabothata
+1. Kgaugelo Rabothata <br>
    Github: @
