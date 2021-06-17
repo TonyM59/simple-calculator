@@ -8,7 +8,7 @@ This is our first calculator using a github, it can be used to solve simple math
 ## Authors
 1. Kgaugelo Rabothata <br>
    Github: [<a href="@kgaugelo-rabothata"></a>] <br>
-   : @misskayrabs
+  - : [@misskayrabs](https://twitter.com/misskayrabs)
    <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 2. Tony Mahlangu <br>
    Github: @TonyM59 <br>
