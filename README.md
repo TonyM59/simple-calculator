@@ -2,16 +2,16 @@
 This is our first calculator using a github, it can be used to solve simple mathematical problems.
 
 ## Developed with
-1. HTML
-2. JavaScript
+- HTML
+- JavaScript
 
 ## Authors
-1. Kgaugelo Rabothata <br>
-   Github: [<a href="@kgaugelo-rabothata"></a>] <br>
-  - : [@misskayrabs](https://twitter.com/misskayrabs)
-   <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-2. Tony Mahlangu <br>
-   Github: @TonyM59 <br>
+- Kgaugelo Rabothata <br>
+   Github: [@kgaugelo-rabothata](https://github.com/kgaugelo-rabothata) <br>
+  -<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> : [@misskayrabs](https://twitter.com/misskayrabs)
+   
+- Tony Mahlangu <br>
+   Github: [@TonyM59](https://github.com/tonym59) <br>
    Email: @tonymahlangu59@gmail.com
 
 ### Contributing
