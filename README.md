@@ -20,6 +20,6 @@ This is our first calculator project developed at girlcode, it can be used to so
 Wanna feature in this project, collaboration requests are more than welcome!
 
 ### Show your support
-Give a <img align="left" alt="codeSTACKr | Star" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/star.svg" /> if you like this project.
+Give a <img alt="codeSTACKr | Star" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/star.svg" /> if you like this project.
 
 
