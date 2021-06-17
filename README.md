@@ -7,7 +7,7 @@ This is our first calculator using a github, it can be used to solve simple math
 
 ## Authors
 1. Kgaugelo Rabothata <br>
-   Github: [@kgaugelo-rabothata][website] <br>
+   Github: [@kgaugelo-rabothata][website]<br>
    Twitter: @misskayrabs
 
 2. Tony Mahlangu <br>
@@ -18,6 +18,6 @@ This is our first calculator using a github, it can be used to solve simple math
 contributions, issues and feature requests are welcome!
 
 ### Show your support
-Give a Star if you like this project.
+Give a :star if you like this project.
 
 
