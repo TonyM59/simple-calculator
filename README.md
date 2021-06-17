@@ -11,8 +11,8 @@ This is our first calculator using a github, it can be used to solve simple math
    Twitter: <a href="@misskayrabs">
 
 2. Tony Mahlangu <br>
-   Github: <a href="TonyM59"> <br>
-   Email: <a href="@tonymahlangu59@gmail.com">
+   Github: #<a href="TonyM59"></a> <br>
+   Email: #<a Email="@tonymahlangu59@gmail.com"></a>
 
 ### Contributing
 contributions, issues and feature requests are welcome!
