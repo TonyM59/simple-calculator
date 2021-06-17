@@ -1,5 +1,7 @@
 # simple-calculator
-This is our first calculator using a github, it can be used to solve simple mathematical problems.
+This is our first calculator using github, it can be used to solve simple mathematical problems.
+
+![project image](https://store-images.microsoft.com/image/apps.40141.9007199266252233.876ea58c-8a0d-4746-accc-370a960b7e29.c516bbd4-9277-4c82-9895-8176fd9c28d2)
 
 ## Developed with
 - HTML
